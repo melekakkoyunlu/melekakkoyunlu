@@ -18,7 +18,7 @@ I am a Computer Engineering student who's at 3rd grade.
 
 - 🌠 I am trying to learn all i can.
 ---
-### :hammer_and_wrench: Languages :
+### ⚔️ Languages :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
