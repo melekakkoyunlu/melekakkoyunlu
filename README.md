@@ -1,16 +1,26 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk)" width="100"/>
 
-<!--
-**melekakkoyunlu/melekakkoyunlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/melek-akkoyunlu-b72890225/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+</div>
 
-Here are some ideas to get you started:
+---
+## -🎀: More About Me :
+I am a Computer Engineering student who's at 3rd grade.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📱: I am interested in mobile and back-end programming.
+
+- 🖥️: I studied C# , C++ , Java .
+
+- 🌠: I am trying to learn all i can.
+---
+### :hammer_and_wrench: Languages :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+</div>
