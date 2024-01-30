@@ -9,14 +9,14 @@
 </div>
 
 ---
-## -🎀: More About Me :
+## -🎀 More About Me :
 I am a Computer Engineering student who's at 3rd grade.
 
-- 📱: I am interested in mobile and back-end programming.
+- 📱 I am interested in mobile and back-end programming.
 
-- 🖥️: I studied C# , C++ , Java .
+- 🖥️ I studied C# , C++ , Java .
 
-- 🌠: I am trying to learn all i can.
+- 🌠 I am trying to learn all i can.
 ---
 ### :hammer_and_wrench: Languages :
 <div>
