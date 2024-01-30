@@ -9,7 +9,7 @@
 </div>
 
 ---
-## -🎀 More About Me :
+## 🎀 More About Me :
 I am a Computer Engineering student who's at 3rd grade.
 
 - 📱 I am interested in mobile and back-end programming.
