@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDgyMDd0c2xzd2tjeXp5Zmw0Z3FmaWtmamt1Ym91YzJoMHdodnR2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/487L0pNZKONFN01oHO/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDgyMDd0c2xzd2tjeXp5Zmw0Z3FmaWtmamt1Ym91YzJoMHdodnR2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/487L0pNZKONFN01oHO/giphy.gif" width="150"/>
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/melek-akkoyunlu-b72890225/">
