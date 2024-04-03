@@ -17,8 +17,6 @@ I am a Computer Engineering student who's at 3rd grade.
 - 🖥️ I have experience on C# , C++ , Java .
 
 - 🌠 I am trying to learn all i can.
-<br>
-![giphy](https://github.com/melekakkoyunlu/melekakkoyunlu/assets/115369650/28f3af9b-43f3-4838-84f6-059a71b24841) 
 
 ---
 ### ⚔️ Languages :
@@ -27,4 +25,8 @@ I am a Computer Engineering student who's at 3rd grade.
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
 </div>
+
+<br>
+
+![giphy](https://github.com/melekakkoyunlu/melekakkoyunlu/assets/115369650/28f3af9b-43f3-4838-84f6-059a71b24841) 
 
