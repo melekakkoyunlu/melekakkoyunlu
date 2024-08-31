@@ -18,7 +18,7 @@ I am a Computer Engineering student who's at 3rd grade.
 
 - 📱 I am interested in mobile and back-end programming.
 
-- 🖥️ I have experience on C# , C++ , Java .
+- 🖥️ I have experience on C# , C++ , Java , HTML , CSS , JavaScript.
 
 - 🌠 I am trying to learn all i can.
 
@@ -28,6 +28,9 @@ I am a Computer Engineering student who's at 3rd grade.
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 
 <br>
