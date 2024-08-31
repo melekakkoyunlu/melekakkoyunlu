@@ -3,10 +3,14 @@
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/melek-akkoyunlu-b72890225/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="margin-right: 10px;"/>
+    </a>
+    <a href="https://www.canva.com/design/DAFyRAfNd-A/4Iz2nDKt3dfFCtJYVb90Ug/view?utm_content=DAFyRAfNd-A&utm_campaign=designshare&utm_medium=link&utm_source=editor">
+      <img src="https://img.shields.io/badge/View%20My%20CV-blue?style=for-the-badge&logo=canva&logoColor=white" alt="CV Badge"/>
     </a>
   </div>
 </div>
+
 
 ---
 ## 🎀 More About Me :
